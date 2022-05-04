@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OrderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-04T15:40:06" hostname="DESKTOP-8AND633" time="0.025">
+  <properties/>
+  <testcase name="place()" classname="OrderTest" time="0.025"/>
+  <system-out><![CDATA[** Welcome to our restaurant. Hotpot initiated! **
+ID: A0504001
+Region: Chengdu
+Spiciness: Slightly
+Size: Medium
+foodList: null
+price: 0.0
+** Mutton Selected! **
+** Yam Selected! **
+** Sorry, the food ' Quail Egg ' cannot be selected currently. You can consult with our waiters. Thank you! **
+** Shrimp Selected! **
+** You need to pay 84.0 yuan. Thank you for patronizing! **
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
